@@ -11,4 +11,4 @@ def maximum(a, b, c):
 a = st.number_input("First number: ")
 b = st.number_input("Second number: ")
 c = st.number_input("Third number: ")
-st.write(maximum(a, b, c))
+st.write(maximum(a,b,c))
